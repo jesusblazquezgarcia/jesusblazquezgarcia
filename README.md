@@ -1,17 +1,41 @@
-<h1 align="center">¡Hola! Soy Jesús Blázquez García 👋</h1>
-<h3 align="center">Desarrollador apasionado en busca de nuevas oportunidades</h3>
-- 💬 Pregúntame sobre: **HTML, CSS, JavaScript y ReactJS**
-- 📫 Cómo contactarme: [jesus.xusta87@gmail.com](mailto:jesus.xusta87@gmail.com)
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/jesusblazquezgarcia" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús blázquez garcía" height="30" width="40" />
-  </a>
-</p>
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <!-- Agrega otras herramientas de manera similar -->
-</p>
+Bienvenido a mi perfil de GitHub 👋
+¡Hola! Soy Jesús Blázquez García, un apasionado de la informática con experiencia en diferentes áreas, especialmente en desarrollo web. Aquí encontrarás un poco más sobre mí y mis habilidades:
+
+💬 Puedes preguntarme sobre HTML, CSS, JavaScript y ReactJS, estaré encantado de ayudarte en lo que necesites.
+
+📫 Puedes contactarme en jesus.xusta87@gmail.com para cualquier consulta o colaboración.
+
+Conéctate conmigo:
+¡Estaré encantado de conectarme contigo! Aquí tienes mi perfil de LinkedIn:
+
+
+Idiomas y herramientas:
+Aquí algunas de las herramientas y tecnologías con las que trabajo:
+
+HTML5
+CSS3
+JavaScript
+ReactJS
+Angular
+Express
+Node.js
+Firebase
+AWS
+Heroku
+MySQL
+MongoDB
+Redux
+TypeScript
+SASS
+Gulp
+Laravel
+Ionic
+Electron
+Java
+SQL Server
+Oracle
+Photoshop
+Illustrator
+Estoy siempre abierto a aprender nuevas tecnologías y enfrentar nuevos desafíos.
+
+¡Gracias por visitar mi perfil! No dudes en contactarme si necesitas ayuda o quieres colaborar en algún proyecto. 😊
