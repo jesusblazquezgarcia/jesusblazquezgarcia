@@ -8,6 +8,8 @@ Bienvenido a mi perfil de GitHub 👋
 Conéctate conmigo:
 ¡Estaré encantado de conectarme contigo! Aquí tienes mi perfil de LinkedIn:
 
+Proyecto que tengo https://calculator-with-js-six.vercel.app/
+
 
 Idiomas y herramientas:
 Aquí algunas de las herramientas y tecnologías con las que trabajo:
